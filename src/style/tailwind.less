@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .table-border-0 .t-table--bordered .t-table__content {
+    @apply border-0;
+  }
+  .table-cell-border-light .t-table--bordered td, .table-cell-border-light .t-table--bordered th {
+    @apply border-[#eee];
+  }
+  .table-cell-border-light .t-table--bordered th {
+    @apply bg-[#fafafa];
+  }
+}

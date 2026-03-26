@@ -1,0 +1,24 @@
+[contenteditable]:empty:before {
+  content: attr(placeholder);
+  color: #999;
+  pointer-events: none;
+}
+.prompt-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 14px;
+  cursor: pointer;
+  color: var(--td-brand-color, #0052d9);
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.prompt-tag:hover {
+  opacity: 0.8;
+  background-color: #ff4d4f20 !important;
+  color: #ff4d4f !important;
+}
+/* 确保编辑器有明确的边界 */
+[contenteditable] {
+  position: relative;
+  z-index: 1;
+}

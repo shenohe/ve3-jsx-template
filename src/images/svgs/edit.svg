@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_edit</title>
+    <g id="1.1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="素材管理" transform="translate(-559.000000, -283.000000)" fill="#A6A7A8" fill-rule="nonzero">
+            <g id="list" transform="translate(280.000000, 222.000000)">
+                <g id="编组-5" transform="translate(0.000000, 40.000000)">
+                    <g id="形状" transform="translate(279.000000, 21.000000)">
+                        <path d="M3.207105,7.9955805 L8.27815,2.91703496 L7.57105,2.20888327 L2.5,7.28743882 L2.5,7.9955805 L3.207105,7.9955805 Z M3.62132,8.99705367 L1.5,8.99705367 L1.5,6.87257856 L7.2175,1.14666074 C7.4128,0.951113087 7.72935,0.951113087 7.9246,1.14666074 L9.33885,2.56295911 C9.5341,2.75850676 9.5341,3.07555815 9.33885,3.2711058 L3.62132,8.99705367 Z M1.5,9.99852683 L10.5,9.99852683 L10.5,11 L1.5,11 L1.5,9.99852683 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

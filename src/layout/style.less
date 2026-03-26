@@ -1,0 +1,218 @@
+.agent-layout {
+  height:100vh;
+
+  &-body {
+    flex:1;
+    overflow:hidden;
+  }
+
+  &-sider {
+    @apply flex flex-col;
+    background: #fff;
+    .logo {
+      display:flex;
+      justify-content:flex-start;
+      align-items:center;
+      margin:16px 0;
+      padding: 0 24px;
+      img {
+        display:block;
+        height:44px; 
+      }
+    }
+    .t-default-menu .t-menu__item {
+      height:var(--td-comp-size-xl);
+      border-radius:var(--td-radius-medium);
+      line-height:var(--td-comp-size-xl);
+    }
+    .t-default-menu .t-default-menu__inner {
+      background: #fff;
+    }
+  }
+
+  &-main {
+    overflow-x:hidden;
+    overflow-y:scroll;
+  }
+
+  &-content {
+    padding: 0 24px;
+    padding-top: 50px;
+    background: #F3F4F7;
+    height: 100%;
+  }
+
+  &-footer {
+    display:none;
+    padding:0 24px 24px 24px;
+
+    p {
+      display:block;
+      margin:0;
+      padding:0;
+      color:#bfbfbf;
+      font-size:14px;
+      text-align:center;
+      line-height:20px;
+    }
+  }
+}
+
+.profile {
+  display:block;
+  min-width:420px;
+  padding:16px 12px;
+  overflow:hidden;
+
+  &-header {
+    display:flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+
+    .avatar {
+      display:block;
+      width:80px;
+      height:80px;
+      border:1px solid var(--td-component-stroke);
+      border-radius:50%;
+      margin-right:12px;
+      overflow:hidden;
+
+      img {
+        display:block;
+        width:100%;
+        height:100%; 
+        object-fit:cover;
+      }
+    }
+
+    .info {
+      flex:1;
+      display:block;
+
+      .role {
+        display:flex;
+        justify-content:flex-start;
+        align-items:center;
+        gap:12px;
+
+        span:nth-child(1) {
+          display:block;
+          color:#333;
+          font-size:16px;
+          line-height:24px;
+        }
+  
+        span:nth-child(2) {
+          display:block;
+          color:#999;
+          font-size:16px;
+          line-height:24px;
+        }
+
+        a {
+          display:block;
+          font-size:16px;
+          line-height:24px;
+        }
+      }
+
+      .name {
+        display:flex;
+        justify-content:flex-start;
+        align-items:center;
+        margin-top:8px;
+
+        .t-link {
+          line-height:24px;
+        }
+        .t-link .t-link__suffix-icon {
+          margin-left:var(--td-comp-margin-xs);
+        }
+      }
+
+      .account {
+        display:block;
+        color:#333;
+        font-size:14px;
+        line-height:24px;
+      }
+    }
+
+    .actionbar {
+      display:flex;
+      flex-direction:column;
+      justify-content:flex-start;
+      align-items:center;
+      gap:16px;
+      margin-left:12px;
+    }
+  }
+
+  &-body {
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:stretch;
+    gap:1px;
+    border-top:1px solid #e8e8e8;
+    margin-top:20px;
+    padding-top:20px;
+
+    .property {
+      display:block;
+      background-color:#fafafa;
+      padding:16px;
+
+      &:first-child {
+        border-top-left-radius:6px;
+        border-top-right-radius:6px;
+      }
+
+      &:last-child {
+        border-bottom-left-radius:6px;
+        border-bottom-right-radius:6px;
+      }
+
+      &-header {
+        display:flex;
+        justify-content:flex-start;
+        align-items:center;
+        gap:12px;
+
+        .icon {
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          width:28px;
+          height:28px;
+          color:#fff;
+          border-radius:6px;
+          background-color:#0052d9;
+        }
+
+        .name {
+          display:block;
+          color:#333;
+          font-size:16px;
+          line-height:28px;
+        }
+      }
+
+      &-body {
+        display:flex;
+        justify-content:flex-start;
+        align-items:center;
+        margin-top:8px;
+
+        .remaining {
+          flex:1;
+          display:block;
+          color:#333;
+          font-size:24px;
+          line-height:28px;
+        }
+      }
+    }
+  }
+}

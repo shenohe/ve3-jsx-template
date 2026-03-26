@@ -1,0 +1,74 @@
+.result {
+  display:block;
+  padding:48px;
+  color:#666;
+  font-size:14px;
+  line-height:1.42857143;
+
+  &-icon {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:40px;
+    text-align:center;
+
+    .t-icon {
+      display:block;
+      font-size:72px;
+    }
+  }
+
+  &-title {
+    display:block;
+    color:#333;
+    font-size:24px;
+    text-align:center;
+  }
+
+  &-description {
+    display:block;
+    margin-top:8px;
+    text-align:center;
+  }
+
+  &-content {
+    display:block;
+    border-radius:6px;
+    background-color:#fafafa;
+    margin-top:40px;
+    padding:24px;
+  }
+
+  &-extra {
+    display:block;
+    margin-top:40px;
+    text-align:center;
+  }
+
+  &-info &-icon {
+    .t-icon {
+      color:#0052d9;
+    }
+  }
+  &-warning &-icon {
+    .t-icon {
+      color:#e37318;
+    }
+  }
+  &-success &-icon {
+    .t-icon {
+      color:#2ba471;
+    }
+  }
+  &-error &-icon {
+    .t-icon {
+      color:#d54941;
+    }
+  }
+  &-403 &-icon,
+  &-404 &-icon,
+  &-500 &-icon,
+  &-comingsoon &-icon {
+    color:#0052d9;
+  }
+}

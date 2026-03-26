@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sidebar_icon_logout_normal</title>
+    <g id="1.1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图、标注" transform="translate(-1031.000000, -623.000000)" fill="currentColor" fill-rule="nonzero">
+            <g id="编组" transform="translate(1030.000000, 143.000000)">
+                <g transform="translate(1.000000, 480.000000)" id="sidebar_icon_logout_normal">
+                    <path d="M13.937158,4.0625 C14.4894427,4.0625 14.937158,4.51021525 14.937158,5.0625 L14.9365,6.5575 L13.6865,6.5575 L13.687158,5.3125 L5.9375,5.3125 L5.9375,14.6875 L13.687158,14.6875 L13.6865,13.4545 L14.9365,13.4545 L14.937158,14.9375 C14.937158,15.4897847 14.4894427,15.9375 13.937158,15.9375 L5.6875,15.9375 C5.13521525,15.9375 4.6875,15.4897847 4.6875,14.9375 L4.6875,5.0625 C4.6875,4.51021525 5.13521525,4.0625 5.6875,4.0625 L13.937158,4.0625 Z M13.1608422,7.5 L16.2858422,10 L13.1608422,12.5 L13.1608422,10.625 L8.7858422,10.625 L8.7858422,9.375 L13.1608422,9.375 L13.1608422,7.5 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

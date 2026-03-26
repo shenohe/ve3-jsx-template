@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="1.2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提示词管理-编辑备份-4" transform="translate(-898.000000, -231.000000)">
+            <g id="弹窗备份" transform="translate(532.000000, 193.000000)">
+                <g id="icon/enter" transform="translate(366.000000, 38.000000)">
+                    <circle id="椭圆形备份" fill="currentColor" cx="14" cy="14" r="14"></circle>
+                    <rect id="矩形" fill="#FFFFFF" x="13" y="10" width="2" height="10" rx="1"></rect>
+                    <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.000000, 14.000000) rotate(-315.000000) translate(-14.000000, -14.000000) " points="11 17 11 11 17 11"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

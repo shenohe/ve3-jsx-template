@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="1.1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="桌贴样式备份" transform="translate(-665.000000, -667.000000)" fill="#A6A7A8" fill-rule="nonzero">
+            <g id="编组-2" transform="translate(649.000000, 604.000000)">
+                <g id="icon/drag" transform="translate(16.000000, 63.000000)">
+                    <path d="M10,8 L10,9 L0,9 L0,8 L10,8 Z M10,4.5 L10,5.5 L0,5.5 L0,4.5 L10,4.5 Z M10,1 L10,2 L0,2 L0,1 L10,1 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

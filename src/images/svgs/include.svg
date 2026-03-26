@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_shoulu</title>
+    <g id="1.1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="数据总览" transform="translate(-1371.000000, -108.000000)">
+            <g id="编组-3" transform="translate(256.000000, 94.000000)">
+                <g id="icon_shoulu" transform="translate(1115.000000, 14.000000)">
+                    <circle id="椭圆形备份-2" fill="#7138D6" opacity="0.257142566" cx="14" cy="14" r="14"></circle>
+                    <path d="M20.3333333,19.3333333 L20.3333333,10.6666667 L19,8 L8.33333333,8 L7,10.66902 L7,19.3333333 C7,19.7015333 7.29848,20 7.66666667,20 L19.6666667,20 C20.0348667,20 20.3333333,19.7015333 20.3333333,19.3333333 Z M9.15721333,9.33333333 L18.1758667,9.33333333 L18.8425333,10.6666667 L8.49121333,10.6666667 L9.15721333,9.33333333 Z M11.6666667,13.3333333 L15.6666667,13.3333333 L15.6666667,14.6666667 L11.6666667,14.6666667 L11.6666667,13.3333333 Z" id="形状" fill="#753CDB" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
