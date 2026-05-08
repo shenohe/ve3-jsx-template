@@ -28,16 +28,6 @@
 
 - vite.config.js Vite打包构建工具配置
 ```
-
-## 开发
-
-``` bash
-# 克隆项目
-git clone http://gitlab.anthead.net/hunyutech/agent-platform/frontend/agent.git
-
-# 进入项目目录
-cd agent
-
 # 安装依赖
 npm install
 
